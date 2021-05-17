@@ -18,7 +18,7 @@ I particular, using two similar sensors measuring in parallel, we have collected
 
 Overall, each data sample consists of eight values:
 
-[Temp1,Hum1,Temp2,Temp1,Hum1,Temp2,Hum2,Difference]
+_[Temp1,Hum1,Temp2,Temp1,Hum1,Temp2,Hum2,Difference]_
 
 The first three values, i.e. Temp1, Hum1, Temp2, are used as the inputs for the Neural Network we train. These are the pair Temp1-Hum1 with the temperature and the humidity we have measured and the Temp2 is the temperature in which we would like to know how the atmosphere humidity would be measured.
 
