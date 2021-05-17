@@ -1,6 +1,10 @@
 # Relevant Humidity Conversion Based on Machine Learning - MadeEasyGreece
 
-_**Acknowledgment**: This module is the result of research which has been co‐financed by the European Regional Development Fund of the European Union and Greek national funds through the Operational Program Competitiveness, Entrepreneurship and Innovation, under the call RESEARCH–CREATE–INNOVATE (project code:T2EDK-03242)_
+**Acknowledgment** 
+
+_This module is the result of research which has been co‐financed by the European Regional Development Fund of the European Union and Greek national funds through the Operational Program Competitiveness, Entrepreneurship and Innovation, under the call RESEARCH–CREATE–INNOVATE (project code:T2EDK-03242)_
+
+**Description**
 
 This module implements the conversion of the relevant humidity in the atmosphere at a given temperature, to a new expected relevant humidity at a new hypothetical temperature provided as input.
 
