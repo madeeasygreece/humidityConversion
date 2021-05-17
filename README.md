@@ -13,7 +13,7 @@ This functionality is useful because most humidity sensors in the market measure
 
 The way the relevant humidity, of given air quality, changes at different temperatures is non-linear and you need quite some complementary information to calculate it analytically. The current module solves this problem using data collection and machine learning.
 
-I particular, using two similar sensors measuring in parallel, we have collected XXX samples of (temperature, relative humidity) pairs of the very same air in the atmosphere before and after changing the temperature of the air with the use of a heating chamber.
+I particular, using two similar sensors measuring in parallel, we have collected 14261 samples of (temperature, relative humidity) pairs of the very same air in the atmosphere before and after changing the temperature of the air with the use of a heating chamber.
 
 
 Overall, each data sample consists of eight values:
