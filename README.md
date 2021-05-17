@@ -1,4 +1,4 @@
-# humidityConversion
+# Relevant Humidity Conversion Based on ML - MadeEasyGreece
 This module implements the conversion of the relevant humidity in the atmosphere at a given temperature, to a new expected relevant humidity at a new hypothetical temperature provided as input.
 
 This functionality is useful because most humidity sensors in the market measure relevant humidity (that is inherently biased by the current temperature), rather than absolute humidity. The module implemented here provides the opportunity to estimate how the humidity you measure at the current temperature, would feel at another temperature.
